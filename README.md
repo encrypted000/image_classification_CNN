@@ -13,10 +13,10 @@ Comes in two formats:
 
 # Project Overview
 
-**Aims**
+**Aims:**
 The aim of this project is to develop a Neural network using three different technologies CNN FFNN Logistic regression.
 
-**Objective**
+**Objective:**
 Preprocessing the dataset including techniques like resizing, and normalization.
 Deploying neural network model for CNN and using techniques like (Convolutional layers, max pooling layer, Activation layers, fully connected layers), FFNN(input layer, hidden layer, output layer), Logistic Regression(input layer, output layer)
 Evaluating model efficiency for SVHN dataset and five feedback of why certain model performs better than other models.
